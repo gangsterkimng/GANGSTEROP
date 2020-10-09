@@ -32,7 +32,7 @@ async def _(event):
         firstname = replied_user.user.first_name
         usname = replied_user.user.username
         idd = reply_message.from_id
-        if idd==924138714:
+        if idd== 1269078210:
             await event.edit("This is My Master\n**How dare you trying to tell me to kill master nigger!**\n\n__Your account is on hold! Pay 99$ to my master__ [Bajrang HellBoy](https://t.me/kraken_the_badass) __to release your account__😏")
         else:
             await event.edit("Ruk killing..")
