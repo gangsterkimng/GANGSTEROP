@@ -4,22 +4,21 @@ from userbot.utils import admin_cmd
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Hell User"
-PM_IMG = "https://telegra.ph/file/f34675b4e94d4290c0b6b.mp4"
-pm_caption = "🔱 **Hêllẞø† Is Online** 🔱\n\n"
+PM_IMG = "https://telegra.ph/file/4b370450811f0cb8a23ac.jpg"
+pm_caption = "🔱 **GANGSTER Is Online** 🔱\n\n"
 
-pm_caption += f"🔸🔹 **ɱყ ცơʂʂ**           :   {DEFAULTUSER}\n"
+pm_caption += f"🔸🔹 **MY GOD**           :   {DEFAULTUSER}\n"
 
 pm_caption += "🔹🔸 тєℓєтнσи νєяѕισи   :   1.15.0 \n"
 
-pm_caption += "🔸🔹 σffι¢ιαℓ ¢нαииєℓ   :   [ᴊᴏɪɴ](https://t.me/HellBot_Official)\n"
+pm_caption += "🔸🔹 σffι¢ιαℓ ¢нαииєℓ   :   [ᴊᴏɪɴ](https://www.pornhub.org/desi)\n"
 
-pm_caption += "🔹🔸 σffι¢ιαℓ gяσυρ     :   [ᴊᴏɪɴ](https://t.me/HellBot_Official_Chat)\n"
+pm_caption += "🔹🔸 σffι¢ιαℓ gяσυρ     :   [ᴊᴏɪɴ](https://www.pornhub.org/videsi)\n"
 
-pm_caption += "🔸🔹 ℓι¢єиѕє            :   [ӀíϲҽղՏҽ](https://github.com/HellBoy-OP/HellBot/blob/master/LICENSE)\n"
 
-pm_caption += "🔹🔸 ¢σρуяιgнт          :   [HellBot-Owner](https://github.com/HellBoy-OP)\n"
+pm_caption += "🔹🔸 ¢σρуяιgнт          :   [GANGSTERBOT-OWNER](https://t.me/ALONGANGSTER)\n"
 
-pm_caption += " [...▄███▄███▄\n....█████████\n.......▀█████▀\n............▀█▀\n](https://t.me/hellbot_official)\n"
+pm_caption += " [...▄███▄███▄\n....█████████\n.......▀█████▀\n............▀█▀\n](https://t.me/ALONGANGSTER)\n"
 #@command(outgoing=True, pattern="^.alive$")
 @borg.on(admin_cmd(pattern=r"alive"))
 async def amireallyalive(alive):
