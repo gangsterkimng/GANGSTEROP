@@ -1,7 +1,7 @@
 # GANGSTER OP
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official HellBot Userbot made by [@ALONGANGSTER](https://t.me/ALONGANGSTER) Also join support channel and group :- https://t.me/HellBot_Official Enjoy Your Bot!!💝
+This is the one and only official HellBot Userbot made by [@ALONGANGSTER](https://t.me/ALONGANGSTER) Also join support channel Enjoy Your Bot!!💝
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
