@@ -15,9 +15,7 @@ This is the one and only official HellBot Userbot made by [@ALONGANGSTER](https:
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gangsterkimng/GANGSTEROP)
-# Generate String Session From Below Links:-
-
+<p align="center"> <a href = "https://heroku.com/deploy?template=https://github.com/gangsterkimng/GANGSTEROP/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="hmm" width="250px"></a></p>
 ### [String #1](https://Hellbot.hellboyop.repl.run)
 
 ### [String #2](https://Hellbot2.hellboyop.repl.run)
