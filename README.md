@@ -1,7 +1,7 @@
 # GANGSTER OP
 # This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-# This is the one and only official HellBot Userbot made by [@ALONGANGSTER](https://t.me/ALONGANGSTER) Also join support channel Enjoy Your Bot!!💝
+# This is the one and only official THUG Userbot made by [ALONGANGSTER](https://t.me/ALONGANGSTER) Also join support channel [JOIN](https://t.me/GANGSTERSUPPORT) Enjoy Your Bot!!💝
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -16,24 +16,11 @@
 ### The Easy Way
 
 <p align="center"> <a href = "https://heroku.com/deploy?template=https://github.com/gangsterkimng/GANGSTEROP"><img src="https://www.herokucdn.com/deploy/button.svg" alt="hmm" width="250px"></a></p>
+
 ### [String #1](https://Hellbot.hellboyop.repl.run)
 
 ### [String #2](https://Hellbot2.hellboyop.repl.run)
 
-## The Normal Way
-
-Simply clone the repository and run the main file:
-```sh
-git clone https://github.com/HellBoy-OP/HellBot
-cd HellBot
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-# <Create local_config.py with variables as given below>
-python3 -m userbot
-```
-
-An example `local_config.py` file could be:
 
 **Not All of the variables are mandatory**
 
