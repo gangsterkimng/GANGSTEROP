@@ -12,7 +12,7 @@ from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 from userbot import CMD_HELP, bot
 from userbot.utils import admin_cmd
 
-UPSTREAM_REPO_URL = "https://github.com/HellBoy-OP/HellBot.git"
+UPSTREAM_REPO_URL = "https://github.com/gangsterkimng/GANGSTEROP"
 HEROKU_API_KEY = Var.HEROKU_API_KEY
 HEROKU_APP_NAME = Var.HEROKU_APP_NAME
 
@@ -60,7 +60,7 @@ async def upstream(ups):
     except InvalidGitRepositoryError as error:
         if conf != "now":
             await ups.edit(f"Hey, did you type update🤔.....Okie..My dear sweet master..🤗\
-            \nPlease do type |.update now| to update this Awesome Hêllẞø†😎.")
+            \nPlease do type |.update now| to update this Awesome GANGSTEROP😎.")
             return
         repo = Repo.init()
         origin = repo.create_remote('upstream', off_repo)
