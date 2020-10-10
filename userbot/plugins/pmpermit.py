@@ -84,7 +84,7 @@ if Var.PRIVATE_GROUP_ID is not None:
           else:
             if pmpermit_sql.is_approved(chat.id):
                 pmpermit_sql.disapprove(chat.id)
-                await event.edit("Tu..😒 nikal pehli fursat me you are blocked now..😠 go find somebody else..fuck off.!!**[{}](tg://user?id={})".format(firstname, chat.id))
+                await event.edit("Nikal lavde pahali fursat me nikal koi zarurat nahi teri idhar bofdk bola tha wait karna replay ka lekin tu nahi mana ab tere ko mere sar hi unblock karsakte hai.!!**[{}](tg://user?id={})".format(firstname, chat.id))
                 await asyncio.sleep(3)
                 await event.client(functions.contacts.BlockRequest(chat.id))
 
