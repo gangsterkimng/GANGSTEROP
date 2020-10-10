@@ -1,6 +1,6 @@
 {
   "name": "GANGSTERBOT",
-  "description": "The best userbot made by GANGSTERBOT. Made with Love And Phone And Hardwork and... Actually it's my friend bot I have forked it and change some plugs Join @HellBot_Official ",
+  "description": "The best userbot made by @ALONGANGSTER. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @GANGSTERSUPPORT ",
   "logo": "https://telegra.ph/file/2ac0fff9c1b9ac534b7cf.jpg ",
     "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/gangsterkimng/GANGSTEROP/",
-  "website": "https://github.com/gangsterkimng/GANGSTEROP/",
+  "repository": "https://github.com/gangsterkimng/GANGSTEROP",
+  "website": "https://github.com/gangsterkimng/GANGSTEROP",
   "success_url": "https://t.me/GANGSTERSUPPORT",
   "env": {
     "ENV": {
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @ALONGANGSTER(your telegram username).",
+      "description": "Fill your Full name or Username like @ALONGANGSTER.",
       "value": "",
       "required": false
     },
@@ -101,8 +101,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: gangsterkimng
- , but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: HellBoy-OP/HellBot , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
