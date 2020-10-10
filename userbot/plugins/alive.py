@@ -17,8 +17,6 @@ pm_caption += "🔹🔸 σffι¢ιαℓ gяσυρ     :   [ᴊᴏɪɴ](https://t
 
 
 pm_caption += "🔹🔸 ¢σρуяιgнт          :   [GANGSTERBOT-OWNER](https://t.me/ALONGANGSTER)\n"
-
-pm_caption += " [...°°°°°°°°°\n....°°°°°°°°\n.......°°°°°°\n............°°°\n](https://t.me/ALONGANGSTER)\n"
 #@command(outgoing=True, pattern="^.alive$")
 @borg.on(admin_cmd(pattern=r"alive"))
 async def amireallyalive(alive):
