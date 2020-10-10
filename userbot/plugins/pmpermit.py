@@ -27,7 +27,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars 
 CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**YOU HAVE TRESPASSED TO MY MASTERS INBOX** \n`THIS IS ILLEGAL AND REGARDED AS A CRIME`"
 USER_BOT_WARN_ZERO = "`You were spamming my sweet master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot⭕️.`\n**Now GTFO, i'm busy**"
 USER_BOT_NO_WARN = ("`Hello, This is GANGSTERBOT⚠️.You have found your way here to my master,`"
-                   f"{DEFAULTUSER}'s `inbox. Tumse na ho paega..  naa karo...\n"
+                   f"{DEFAULTUSER}'s `inbox. Sun Baat meri Lavde bina pu6 pm nahi karte hai ab agar mere master ne replay nahi dia to samajh jana teri replay ki aukaat nahi hai or dia to smajh jana tu special hai ...\n"
                     "Leave your Name,Reason and 100 Million $ and hopefully you'll get a reply within 100 light years.`☠️\n\n"
                     "☠️ Register Your Request! ☠️\nSend /start To Register Your Request!! ☠️\n"
                     "☠️**Now You Are In Trouble So Send** ☠️ `/start` ☠️ **To Start A Valid Conversation!!**☠️")
