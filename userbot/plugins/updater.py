@@ -87,7 +87,7 @@ async def upstream(ups):
     changelog = await gen_chlog(repo, f'HEAD..upstream/{ac_br}')
     if not changelog and not force_update:
         await ups.edit(
-            f'\n`**GANGSTER** is`  **up-to-date**  `with`  **{ac_br}**\n')
+            f'\n`GANGSTER is`  **up-to-date**  `with`  **{ac_br}**\n')
         repo.__del__()
         return
     if conf != "now" and not force_update:
