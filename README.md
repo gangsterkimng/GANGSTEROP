@@ -1,21 +1,21 @@
 # GANGSTER OP
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
+# This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official HellBot Userbot made by [@ALONGANGSTER](https://t.me/ALONGANGSTER) Also join support channel Enjoy Your Bot!!💝
+# This is the one and only official HellBot Userbot made by [@ALONGANGSTER](https://t.me/ALONGANGSTER) Also join support channel Enjoy Your Bot!!💝
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
 
 
 # For any query:-
-### [Join Here For Any Query](https://www.pornhub.org/desi)
+### [Join Here For Any Query](https://t.me/GANGSTERSUPPORT)
 
 # FORK AT YOUR OWN RISK
 ## Installing
 
 ### The Easy Way
 
-<p align="center"> <a href = "https://heroku.com/deploy?template=https://github.com/gangsterkimng/GANGSTEROP/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="hmm" width="250px"></a></p>
+<p align="center"> <a href = "https://heroku.com/deploy?template=https://github.com/gangsterkimng/GANGSTEROP"><img src="https://www.herokucdn.com/deploy/button.svg" alt="hmm" width="250px"></a></p>
 ### [String #1](https://Hellbot.hellboyop.repl.run)
 
 ### [String #2](https://Hellbot2.hellboyop.repl.run)
