@@ -1,6 +1,6 @@
 #"""Update UserBot Code (FOR GANGSTER USERBOT)
 #Syntax: .update
-#\nAll Credits goes to @Alongangster
+#\nAll Credits goes to @Kraken_the_badaas
 #\nFor this awasome plugin.\nPorted from PpaperPlane Extended"""
 
 from os import remove, execle, path, makedirs, getenv, environ, execl
