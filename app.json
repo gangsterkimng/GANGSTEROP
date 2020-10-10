@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "The best userbot made by @Kraken_The_BadASS. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @HellBot_Official ",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "GANGSTERBOT",
+  "description": "The best userbot made by GANGSTERBOT. Made with Love And Phone And Hardwork and... Actually it's my friend bot I have forked it and change some plugs Join @HellBot_Official ",
+  "logo": "https://telegra.ph/file/2ac0fff9c1b9ac534b7cf.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/HellBoy-OP/HellBot/",
-  "website": "https://github.com/HellBoy-OP/HellBot/",
-  "success_url": "https://t.me/HellBot_Official",
+  "repository": "https://github.com/gangsterkimng/GANGSTEROP/",
+  "website": "https://github.com/gangsterkimng/GANGSTEROP/",
+  "success_url": "https://t.me/GANGSTERSUPPORT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @Kraken_The_BadASS.",
+      "description": "Fill your Full name or Username like @ALONGANGSTER(your telegram username).",
       "value": "",
       "required": false
     },
@@ -101,7 +101,8 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: HellBoy-OP/HellBot , but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: gangsterkimng
+ , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
