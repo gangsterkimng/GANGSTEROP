@@ -1,6 +1,6 @@
-#"""Update UserBot Code (FOR HELLBOT USERBOT)
+#"""Update UserBot Code (FOR GANGSTER USERBOT)
 #Syntax: .update
-#\nAll Credits goes to © @Kraken_The_BadASS
+#\nAll Credits goes to @Alongangster
 #\nFor this awasome plugin.\nPorted from PpaperPlane Extended"""
 
 from os import remove, execle, path, makedirs, getenv, environ, execl
@@ -87,7 +87,7 @@ async def upstream(ups):
     changelog = await gen_chlog(repo, f'HEAD..upstream/{ac_br}')
     if not changelog and not force_update:
         await ups.edit(
-            f'\n`Your Hêllẞø† is`  **up-to-date**  `with`  **{ac_br}**\n')
+            f'\n`**GANGSTER** is`  **up-to-date**  `with`  **{ac_br}**\n')
         repo.__del__()
         return
     if conf != "now" and not force_update:
@@ -110,7 +110,7 @@ async def upstream(ups):
     if force_update:
         await ups.edit('Force-Syncing to latest stable userbot code, please wait master...😅😅')
     else:
-        await ups.edit('Updating userbot, please wait....you arey best boss🤗😇')
+        await ups.edit('Updating userbot, please wait....')
     if HEROKU_API_KEY is not None:
         import heroku3
         heroku = heroku3.from_key(HEROKU_API_KEY)
@@ -139,7 +139,7 @@ async def upstream(ups):
             remote.set_url(heroku_git_url)
         else:
             remote = repo.create_remote("heroku", heroku_git_url)
-        await ups.edit("Updating and Deploying New Update. Please wait for 5 minutes then use `.alive` to check if i'm working or not, you are my best boss...🤗🤗😎.. Just after this update a restart will take place..that's all- your Hêllẞø† by @Kraken_The_BadASS ")
+        await ups.edit("Updating and Deploying New Update. Please wait for 5 minutes then use `.alive` to check if i'm working or not, you are my best boss...🤗🤗😎.. Just after this update a restart will take place..that's all- your GANGSTERBOT by @ALONGANGSTER ")
         remote.push(refspec="HEAD:refs/heads/master", force=True)
     else:
         try:
